@@ -4,11 +4,11 @@
 <br>
   <h2>Tecnologias ultilizadas<h2>
     <br>
-    - HTML
+    - HTML.
     <br>
-    - CSS
+    - CSS.
     <br>
-    - JavaScript
+    - JavaScript.
     <br>
     <br>
 <img src="https://raw.githubusercontent.com/FernandoBRITO26/Conversor-money/f3d8ea993b65c6ef9cf500604f52b885718d5766/assets/2022-12-08.png"/>
