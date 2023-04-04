@@ -26,8 +26,8 @@ body {
 .container {
     background: #ffffff;
     width: 375px;
-    margin-left: 200%;
-    margin-top: 85px;
+    height: auto;
+    margin:40px 0 40px 0;
     margin-left: 40vw;
     border-radius: 0px 14px;
     position: absolute;
@@ -161,7 +161,7 @@ section {
    
 .container {
     background: #ffffff;
-    width: 375px;
+    width: 100vw;
     margin-left: auto;
     margin-top: 0px;
     margin-left:0;
