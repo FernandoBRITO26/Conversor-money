@@ -157,3 +157,22 @@ section {
     display: block;
 
 }
+@media screen and ( max-width: 700px) {
+   
+.container {
+    background: #ffffff;
+    width: 375px;
+    margin-left: auto;
+    margin-top: 0px;
+    margin-left:0;
+    border-radius: 0px 14px;
+    position: absolute;   
+}
+
+.fundo {
+    width: 0;
+    height: 0;
+}
+
+    
+}
